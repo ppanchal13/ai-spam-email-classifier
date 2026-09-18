@@ -64,7 +64,7 @@ accuracy = accuracy_score(y_test, predictions)
 
 print("\nModel Evaluation")
 print("----------------")
-print(f"Accuracy: {accuracy:.4f}")
+print(f"Accuracy: {accuracy:.4f}") 
 
 print("\nClassification Report:")
 print(
